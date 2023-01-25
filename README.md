@@ -1,4 +1,4 @@
-# kebabFitnessAppy
+# kebabFitnessApp
 
 ###### This application is built with React Native.
 
